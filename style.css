@@ -1,0 +1,35 @@
+html {
+    background-color: blueviolet; /* change the background colorm of the page*/
+    }
+
+#ademir {
+    text-align: center; /*put the in the center of the "square"*/
+    border: 2px solid black; /* put a border in the text */
+    border-radius: 10px; /* put a little curve on the corners*/
+    background-color: white; /* change the background "square" to wihte*/
+    width: 250px; /*shape of the image*/
+    margin: auto; /*put a little space betewen the thinks*/
+    padding-top: 1px;
+
+}
+
+img {
+    height: 200px; 
+    width: 200px;
+    border-radius: 100px;
+    display: block; /* Added to center the image */
+    margin: 0 auto; /* Centering the image */
+}
+
+#linkedin {
+ border: 2px solid black;
+ background-color:white;
+ border-radius: 5px;
+ padding: 10px 10px 10px 10px;  
+}
+
+#Github{
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+}   
